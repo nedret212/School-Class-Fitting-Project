@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1509233587 source:c:\users\ned\desktop\prolab1 proje2\p1_p2_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1509730339 source:d:\mühendislik\2017 - 2018\güz dönemi\prolab 1\proje 2\150202114 - 140202121 p1_p2\p1_p2_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

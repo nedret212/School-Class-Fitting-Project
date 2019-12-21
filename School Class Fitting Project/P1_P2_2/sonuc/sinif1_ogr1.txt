@@ -1,0 +1,11 @@
+OGRETIM 1 SINIF 1 SINIF LISTESI:
+
+  1. 1701014           Piers        Morrison         14               I
+  2. 1701015       Christian          Hughes         15               I
+  3. 1701016           Megan           White         16               I
+  4. 1701017           Pippa           Poole         17               I
+  5. 1701019            Adam          Butler         19               I
+  6. 1701020          Alison          Mathis         20               I
+  7. 1701021        Nicholas            Gray         21               I
+  8. 1701022         Heather          Turner         22               I
+  9. 1701037            John           Grant         37               I

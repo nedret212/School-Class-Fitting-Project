@@ -1,0 +1,16 @@
+OGRETIM 2 SINIF 2 SINIF LISTESI:
+
+  1. 1702023          Joseph            Hart         23              II
+  2. 1702024           Chloe           James         24              II
+  3. 1702025             Max           Brown         25              II
+  4. 1702026          Austin           White         26              II
+  5. 1702027         Deirdre            Hill         27              II
+  6. 1702028           Jason          Slater         28              II
+  7. 1702029           Molly        Clarkson         29              II
+  8. 1702030           Wendy          Peters         30              II
+  9. 1702031           Jacob        Buckland         31              II
+ 10. 1702032          Amanda          Mathis         32              II
+ 11. 1702033         Jasmine          Oliver         33              II
+ 12. 1702034             Ava           Quinn         34              II
+ 13. 1702035            Joan         Pullman         35              II
+ 14. 1702036      Bernadette       Underwood         36              II
